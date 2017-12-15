@@ -1,0 +1,4 @@
+D:\vsproject\我的项目\ArchivesSystem\Lib\Archives.Service.dll
+D:\vsproject\我的项目\ArchivesSystem\Lib\Archives.Service.pdb
+D:\vsproject\我的项目\ArchivesSystem\Archives.Service\obj\Debug\Archives.Service.dll
+D:\vsproject\我的项目\ArchivesSystem\Archives.Service\obj\Debug\Archives.Service.pdb

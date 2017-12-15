@@ -1,0 +1,4 @@
+D:\vsproject\我的项目\ArchivesSystem\Lib\Archives.IData.dll
+D:\vsproject\我的项目\ArchivesSystem\Lib\Archives.IData.pdb
+D:\vsproject\我的项目\ArchivesSystem\Archives.IData\obj\Debug\Archives.IData.dll
+D:\vsproject\我的项目\ArchivesSystem\Archives.IData\obj\Debug\Archives.IData.pdb

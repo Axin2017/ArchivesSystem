@@ -1,0 +1,5 @@
+D:\vsproject\我的项目\ArchivesSystem\Archives.Data\obj\Debug\Archives.Data.csprojResolveAssemblyReference.cache
+D:\vsproject\我的项目\ArchivesSystem\Lib\Archives.Data.dll
+D:\vsproject\我的项目\ArchivesSystem\Lib\Archives.Data.pdb
+D:\vsproject\我的项目\ArchivesSystem\Archives.Data\obj\Debug\Archives.Data.dll
+D:\vsproject\我的项目\ArchivesSystem\Archives.Data\obj\Debug\Archives.Data.pdb

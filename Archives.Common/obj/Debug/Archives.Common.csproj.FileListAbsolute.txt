@@ -1,0 +1,4 @@
+D:\vsproject\我的项目\ArchivesSystem\Lib\Archives.Common.dll
+D:\vsproject\我的项目\ArchivesSystem\Lib\Archives.Common.pdb
+D:\vsproject\我的项目\ArchivesSystem\Archives.Common\obj\Debug\Archives.Common.dll
+D:\vsproject\我的项目\ArchivesSystem\Archives.Common\obj\Debug\Archives.Common.pdb
