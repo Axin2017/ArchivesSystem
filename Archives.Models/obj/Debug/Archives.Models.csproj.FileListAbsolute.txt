@@ -1,0 +1,4 @@
+D:\vsproject\我的项目\ArchivesSystem\Lib\Archives.Models.dll
+D:\vsproject\我的项目\ArchivesSystem\Lib\Archives.Models.pdb
+D:\vsproject\我的项目\ArchivesSystem\Archives.Models\obj\Debug\Archives.Models.dll
+D:\vsproject\我的项目\ArchivesSystem\Archives.Models\obj\Debug\Archives.Models.pdb
